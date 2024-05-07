@@ -1,0 +1,3 @@
+/home/hstpl_lap_131/this/openCv/Yolov5_Video_Object_Detection/CMakeFiles/Video_Obj_Detection.dir
+/home/hstpl_lap_131/this/openCv/Yolov5_Video_Object_Detection/CMakeFiles/edit_cache.dir
+/home/hstpl_lap_131/this/openCv/Yolov5_Video_Object_Detection/CMakeFiles/rebuild_cache.dir
